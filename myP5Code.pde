@@ -4,7 +4,7 @@ void setup() {
 }
 
 //🎯Variable Declarations Go Here
-var sunSize = 30; 
+var sunSize = 30;   
 
 
 //🟢Draw Function - Runs on Repeat
